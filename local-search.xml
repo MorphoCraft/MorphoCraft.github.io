@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Spigot鞘翅工具插件</title>
+    <link href="/2022/01/10/Spigot%E9%9E%98%E7%BF%85%E5%B7%A5%E5%85%B7%E6%8F%92%E4%BB%B6/"/>
+    <url>/2022/01/10/Spigot%E9%9E%98%E7%BF%85%E5%B7%A5%E5%85%B7%E6%8F%92%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<p>主要是为了方便使用鞘翅飞行制作的插件 <del>(右键即可原地起飞)</del>，监听事件如下：</p><ul><li>玩家物品损伤事件（PlayerItemDamageEvent）</li><li>玩家互动事件（PlayerInteractEvent）</li></ul><p>无配置文件，放入plugins文件夹即可使用<br>不支持Minecraft 1.9以下版本（无鞘翅）<br><em>仓库地址：<a href="https://github.com/MorphoCraft/Spigot-ElytraTool">https://github.com/MorphoCraft/Spigot-ElytraTool</a></em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>插件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Spigot</tag>
+      
+      <tag>1.18.1</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Spigot禁止村民交易插件</title>
+    <link href="/2021/12/29/Spigot%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E4%BA%A4%E6%98%93%E6%8F%92%E4%BB%B6/"/>
+    <url>/2021/12/29/Spigot%E7%A6%81%E6%AD%A2%E6%9D%91%E6%B0%91%E4%BA%A4%E6%98%93%E6%8F%92%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<p>主要用于高版本MC禁止村民或流浪商人交易的插件，监听事件如下：</p><ul><li>玩家实体交互事件（PlayerInteractEntityEvent）</li></ul><p>无配置文件，放入plugins文件夹即可使用<br>理论上不支持1.14以下版本（未加入流浪商人），在Paper 1.18.1下测试通过，其他版本并未进行测试，请自行测试<br><em>只要去掉流浪商人的判断即可兼容更低的版本</em><br><em>仓库地址：<a href="https://github.com/MorphoCraft/Spigot-DisableVillagerTrading">https://github.com/MorphoCraft/Spigot-DisableVillagerTrading</a></em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>插件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Spigot</tag>
+      
+      <tag>1.18.1</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Spigot爆炸保护插件</title>
+    <link href="/2021/12/28/Spigot%E7%88%86%E7%82%B8%E4%BF%9D%E6%8A%A4%E6%8F%92%E4%BB%B6/"/>
+    <url>/2021/12/28/Spigot%E7%88%86%E7%82%B8%E4%BF%9D%E6%8A%A4%E6%8F%92%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<p>主要用于高版本MC防止爆炸破坏地形或者容器的插件，监听事件如下：</p><ul><li>实体爆炸事件（EntityExplodeEvent）</li><li>实体伤害实体事件（EntityDamageByEntityEvent）</li><li>悬浮实体破坏事件（HangingBreakEvent）</li><li>悬浮实体被实体破坏事件（HangingBreakByEntityEvent）</li></ul><p>无配置文件，放入plugins文件夹即可使用<br>理论上不支持1.17以下版本（未加入荧光物品展示框），在Paper 1.18.1下测试通过，其他版本并未进行测试，请自行测试<br><em>仓库地址：<a href="https://github.com/MorphoCraft/Spigot-ExplosionProtector">https://github.com/MorphoCraft/Spigot-ExplosionProtector</a></em></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>插件</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Spigot</tag>
+      
+      <tag>1.18.1</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
